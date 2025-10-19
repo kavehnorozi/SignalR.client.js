@@ -15,7 +15,7 @@
 با npm:
 
 ```bash
-npm install signalr-client-lib
+npm install signalr-client
 ```
 
 یا به صورت مستقیم در مرورگر:
